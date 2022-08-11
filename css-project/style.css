@@ -1,0 +1,199 @@
+#both{
+    display: flex;
+    color: white;
+}
+body{
+    background-color: lightgray;
+    
+}
+#red{
+    height: 80px;
+    width: 25%;
+    background-color:  darkblue;
+    box-sizing: border-box;
+}
+#blue{
+    height: 80px;
+    width: 75%;
+    background-color: red;
+    display: flex;
+}
+#one{
+    margin-left: 270px;
+    margin-top: 11px;
+    font-size: 39px;
+    
+}
+#two{
+     
+    margin-top: 11px;
+    font-size: 39px;
+    margin-right: 250px;
+    
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-top: 0px;
+    margin-top: 0px;
+}
+li{
+    margin-left: 50px;
+    margin-top: 12px;
+}
+li a{
+   text-decoration: none;
+   color: black;
+   font-size: none;
+   text-transform: capitalize;
+   background-color: white;
+}
+#class{
+    background-color: white;
+    height: 50px;
+    padding-left: 150px;
+}
+#three{
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    margin-left: -90%;
+}
+#her{
+    background-color: white;
+    padding-left: 1px;
+
+
+    width: 500px;
+    height: 350px;
+    
+}
+button{
+    background-color: red;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#four{
+    display: flex;
+    background-color: white;
+    margin-top: 30px;
+    width: 920px;
+    margin-left: 250px;
+    border: 5px solid white;
+}
+span{
+
+font-weight: bolder;
+font-size: 30px;
+}
+#him{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 250px;
+    height: 340px;
+    border: 5px solid white;
+}
+#fball{
+    font-weight: 50px;
+    font-size: 20px;
+}
+
+#them{
+    width: 290px;
+    height: 200px;
+}
+#confusing{
+    display: flex;
+}
+#confuse{
+    display: flex;
+}
+#sheer{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 250px;
+    height: 340px;
+    border: 5px solid white;
+}
+#seven{
+    width: 290px;
+    height: 200px;
+
+}
+#eight{
+    font-weight: 50px;
+    font-size: 20px;
+}
+#shit{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 15px;
+    height: 340px;
+    border: 5px solid white;
+}
+#boxing{
+    font-weight: 50px;
+    font-size: 20px;
+}
+#us{
+    width: 290px;
+    height: 200px;
+}
+#rere{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 15px;
+    height: 340px;
+    border: 5px solid white;
+}
+#there{
+    width: 290px;
+    height: 200px;
+}
+#span{
+    font-weight: 50px;
+    font-size: 20px;
+}
+#tiredasf{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 15px;
+    height: 340px;
+    border: 5px solid white;
+}
+#home{
+    width: 290px;
+    height: 200px;
+}
+#nifemi{
+    font-weight: 50px;
+    font-size: 20px;
+}
+#mutu{
+    margin-top: 20px;
+    background-color: white;
+    width: 290px;
+    margin-left: 15px;
+    height: 340px;
+    border: 5px solid white;
+
+}
+#acedu{
+    width: 290px;
+    height: 200px;
+}
+#last{
+    font-weight: 50px;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
