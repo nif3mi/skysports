@@ -4,6 +4,8 @@
 }
 body{
     background-color: lightgray;
+    margin: 0;
+    background-color: orange;
     
 }
 #red{
@@ -81,6 +83,10 @@ button{
     width: 920px;
     margin-left: 250px;
     border: 5px solid white;
+    
+}
+four:hover{
+    text-decoration: underline;
 }
 span{
 
@@ -195,5 +201,33 @@ font-size: 30px;
 a:hover{
     text-decoration: underline;
 }
+
+p:hover{
+    text-decoration: underline;
+}
+input{
+    position: relative;
+}
+#search{
+    color: black;
+    margin-top: 24px;
+    position: absolute;
+    margin-left: 720px;
+    
+    
+}
+#user{
+    color: white;
+    margin-top: 22px;
+    position: absolute;
+    margin-left: 490px;
+}
+#angle{
+    color: black;
+    margin-top: 13px;
+    position: absolute;
+    margin-left: 710px;
+}
+
 
 
